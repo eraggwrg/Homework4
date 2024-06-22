@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "c728",
+      "name": "Armen",
+      "surname": "Minasyan",
+      "salary": 12200000
+    },
+    {
+      "id": "4295",
+      "name": "Armen",
+      "surname": "Minasyan",
+      "salary": 1110000
+    },
+    {
+      "id": "8fdb",
+      "name": "Armen",
+      "surname": "Minasyan",
+      "salary": 810000
+    }
+  ]
+}
